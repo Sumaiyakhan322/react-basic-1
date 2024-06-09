@@ -1,4 +1,5 @@
 import Dynamic from "./assets/components/Dynamic"
+import Reuseable from "./assets/components/Reuseable"
 
 
 
@@ -8,6 +9,9 @@ function App() {
     <>
    <p>hello </p>
    <Dynamic></Dynamic>
+   <Reuseable></Reuseable>
+   <Reuseable></Reuseable>
+   <Reuseable></Reuseable>
     </>
   )
 }
