@@ -1,3 +1,5 @@
+import Dynamic from "./assets/components/Dynamic"
+
 
 
 function App() {
@@ -5,6 +7,7 @@ function App() {
   return (
     <>
    <p>hello </p>
+   <Dynamic></Dynamic>
     </>
   )
 }
